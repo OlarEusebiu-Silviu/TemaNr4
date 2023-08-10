@@ -11,5 +11,5 @@ class Contact {
         this.lastName = lastName;
     }
 
-    // Metode pentru acces la proprietăți
+    
 }

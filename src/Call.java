@@ -5,5 +5,5 @@ class Call {
         this.phoneNumber = phoneNumber;
     }
 
-    // Metode pentru acces la proprietăți
+    
 }

@@ -13,8 +13,7 @@ class SamsungGalaxyS6 extends Telefon implements ContactManager, MessageManager,
         this.callHistory = new ArrayList<>();
     }
 
-    // Implementare pentru metodele din interfețe
-    // ...
+   
 
     @Override
     public void displayInfo() {

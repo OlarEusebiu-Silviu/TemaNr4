@@ -7,5 +7,5 @@ class Message {
         this.content = content;
     }
 
-    // Metode pentru acces la proprietăți
+   
 }
